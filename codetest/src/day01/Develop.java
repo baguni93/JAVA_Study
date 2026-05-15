@@ -53,7 +53,6 @@ public class Develop {
         }
 
 
-
         return Arrays.stream(answer)
                 .filter(value -> value != 0)
                 .toArray();
